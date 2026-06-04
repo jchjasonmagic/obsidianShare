@@ -1,0 +1,21 @@
+---
+type: knowledge-point
+topic: ai-workflow
+status: evergreen
+map_stage: applied
+map_scope: ai
+map_kind: mechanism
+map_layer: point
+---
+
+# 主题索引：AI 工作流
+
+这是示例数据集中的“AI 工作流”归类索引。
+
+这里的内容仅用于演示分类、双链与图谱布局。
+
+## 关联
+
+- [[O-DataMap 是什么]]
+- [[双链工作流]]
+- [[构建脚本]]
